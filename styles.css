@@ -67,6 +67,12 @@ nav{
     
 }
 
+textarea{
+    outline: none;
+    padding: 20px;
+    width: 100%;
+    
+}
 .container{
     /* background-color: blue; */
     margin: 20px;
